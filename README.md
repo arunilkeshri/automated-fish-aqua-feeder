@@ -41,12 +41,9 @@ This isn’t just a project; it's a solution to a real problem.
 
 ---
 
-## 📸 Project Showcase
+## 📸 Demo & Setup
 
-> Here's a glimpse of how it looks in action:
-
-![Feeder Setup](media/fish_feeder1.jpg)
-![Live Demo](media/setup_demo.jpg)
+![Feeder Setup](media/fish_feeder_setup.jpg)
 
 🎬 [Click here to watch the demo video](media/fish_feeder_demo.mp4)
 
