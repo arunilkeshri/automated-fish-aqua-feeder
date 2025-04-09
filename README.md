@@ -43,9 +43,9 @@ This isn’t just a project; it's a solution to a real problem.
 
 ## 📸 Demo & Setup
 
-![Feeder Setup](media/fish_feeder_setup.jpg)
+![Feeder Setup](media/automate%20fish%20feeder%20picture.jpg)
 
-🎬 [Click here to watch the demo video](media/fish_feeder_demo.mp4)
+🎬 [Click here to watch the demo video](media/automate%20fish%20feeder%20video.mp4)
 
 ---
 
