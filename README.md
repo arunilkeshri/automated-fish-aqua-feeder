@@ -41,9 +41,14 @@ This isn’t just a project; it's a solution to a real problem.
 
 ---
 
-## 📸 Demo & Setup
+## 📸 Project Showcase
 
-> (Add photos/videos of your setup here if you have them. You can do it later too.)
+> Here's a glimpse of how it looks in action:
+
+![Feeder Setup](media/fish_feeder1.jpg)
+![Live Demo](media/setup_demo.jpg)
+
+🎬 [Click here to watch the demo video](media/fish_feeder_demo.mp4)
 
 ---
 
@@ -78,5 +83,3 @@ Made with care by **Arunil Keshri**
 ## 📄 License
 
 This project is free to use and modify—just give credit if you build upon it 🙌
-
----
