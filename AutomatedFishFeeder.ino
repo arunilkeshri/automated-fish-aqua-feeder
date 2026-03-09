@@ -71,7 +71,7 @@ void feedFish() {
 // Setup function
 void setup() {
   Serial.begin(9600);
-  feederServo.attach(servoPin);
+  feederServo.attach(servoPin, 500, 2500);
   feederServo.write(0);
   pinMode(ledPin, OUTPUT);
   digitalWrite(ledPin, HIGH); // Ensure LED is off
